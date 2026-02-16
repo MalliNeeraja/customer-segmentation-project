@@ -24,5 +24,12 @@ The aim of this project is to segment customers into different groups using unsu
 ## Result
 The customers are successfully grouped into different segments based on their behavior.
 
+## Files in this Repository
+- customersegmentationproject1.ipynb : Jupyter notebook for training and analysis
+- customer_streamlit.py : Streamlit web app for customer segmentation
+- kmeans_model.pkl : Trained K-Means model
+- scaler.pkl : Scaler used for preprocessing
+- marketing_campaign.csv : Dataset used for training
+
 ## How to Run
 Open the notebook file and run all cells step by step.
